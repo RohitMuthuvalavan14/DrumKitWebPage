@@ -41,7 +41,7 @@ for (var i = 0; i < numberOfDrumButton; i++) {
                 break;
 
             default:
-                console.log("w key pressed");
+                console.log("Code Executed Perfectly");
         }
     });
 }
